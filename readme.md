@@ -3,6 +3,7 @@ A simple python script for recording the screen.
 
 ### Requirements
 `Python3`
+
 Install the py3_requirements.txt before running the program
 
 ### Installing Requirements.txt

@@ -21,7 +21,7 @@ while True:
     cv2.imshow('Screen', img)
     # print(img.shape)
     out.write(img)
-    if cv2.waitKey(1) & 0xFF==ord('q'):
+    if cv2.waitKey(1) & 0xFF==ord(' '):
         break
 
 out.release()

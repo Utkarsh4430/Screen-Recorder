@@ -16,3 +16,6 @@ In terminal write:
 `python3 screen_recorder.py <path_to_recording>`
 
 Note: Path to recording argument is optional. The default path is the same folder in which your script is saved.
+
+###Terminating the script
+Go to the window that was launched and press the space bar to end the recording.

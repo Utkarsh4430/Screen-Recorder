@@ -21,7 +21,9 @@ Note: Path to recording argument is optional. The default path is the same folde
 ### Using the script
 
 > Play/Pause
+
 	Go to the window that was launched and press the key "p" on your keyboard to play/pause the recording.
 
 > End
+
 	Go to the window that was launched and press the space bar on your keyboard to end the recording.
